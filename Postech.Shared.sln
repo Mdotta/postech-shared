@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Postech.Shared", "Postech.Shared\Postech.Shared.csproj", "{2E1864C7-A40F-4FC1-AD84-16A005E6ECDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E1864C7-A40F-4FC1-AD84-16A005E6ECDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E1864C7-A40F-4FC1-AD84-16A005E6ECDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E1864C7-A40F-4FC1-AD84-16A005E6ECDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E1864C7-A40F-4FC1-AD84-16A005E6ECDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
