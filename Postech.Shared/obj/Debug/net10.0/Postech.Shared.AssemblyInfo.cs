@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Postech.Shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8999a5ee4a148ca7b0fe5f24f63625cc01eca02b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Postech.Shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Postech.Shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

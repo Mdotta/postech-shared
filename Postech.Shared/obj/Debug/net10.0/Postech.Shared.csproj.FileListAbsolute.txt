@@ -20,3 +20,4 @@
 /Users/dotta/code/studies/fiap/fase_2/postech-shared/Postech.Shared/obj/Debug/net10.0/refint/Postech.Shared.dll
 /Users/dotta/code/studies/fiap/fase_2/postech-shared/Postech.Shared/obj/Debug/net10.0/Postech.Shared.pdb
 /Users/dotta/code/studies/fiap/fase_2/postech-shared/Postech.Shared/obj/Debug/net10.0/ref/Postech.Shared.dll
+/Users/dotta/code/studies/fiap/fase_2/postech-shared/Postech.Shared/obj/Debug/net10.0/Postech.Shared.sourcelink.json
